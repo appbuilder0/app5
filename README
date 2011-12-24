@@ -1,0 +1,7 @@
+App5 Project
+
+Introduction
+
+App5 is an application builder project. It lets users create web based applications for data entry and searching. Users are able to define "tables" to store data in, data entry forms, validation rules and actions to perform on the data.
+
+The resulting application will be based on html5. The application has built in role based security features.
